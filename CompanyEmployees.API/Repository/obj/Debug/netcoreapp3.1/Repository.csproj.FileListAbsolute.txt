@@ -1,0 +1,14 @@
+C:\Code\Code Maze\Security\CompanyEmployees.API\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\Code\Code Maze\Security\CompanyEmployees.API\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Code\Code Maze\Security\CompanyEmployees.API\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Code\Code Maze\Security\CompanyEmployees.API\Repository\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Code\Code Maze\Security\CompanyEmployees.API\Repository\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Code\Code Maze\Security\CompanyEmployees.API\Repository\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Code\Code Maze\Security\CompanyEmployees.API\Repository\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Code\Code Maze\Security\CompanyEmployees.API\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+C:\Code\Code Maze\Security\CompanyEmployees.API\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Code\Code Maze\Security\CompanyEmployees.API\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\Code\Code Maze\Security\CompanyEmployees.API\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\Code\Code Maze\Security\CompanyEmployees.API\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\Code\Code Maze\Security\CompanyEmployees.API\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+C:\Code\Code Maze\Security\CompanyEmployees.API\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
